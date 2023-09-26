@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\not hesaplama\not hesaplama\bin\Debug\not hesaplama.exe.config
+C:\Users\User\source\repos\not hesaplama\not hesaplama\bin\Debug\not hesaplama.exe
+C:\Users\User\source\repos\not hesaplama\not hesaplama\bin\Debug\not hesaplama.pdb
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.btnHesapla.resources
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not_hesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.exe
+C:\Users\User\source\repos\not hesaplama\not hesaplama\obj\Debug\not hesaplama.pdb
